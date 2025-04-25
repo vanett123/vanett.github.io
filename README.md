@@ -1,16 +1,3 @@
-You're on the right track, Vanett! I'll expand your current `README.md` to include all the important elements we discussed:
-
-- ✨ "How to Run" section  
-- 📸 Sample Output section (for your word cloud)  
-- 🔎 Key Findings  
-- 📬 Contact info (with a placeholder for your LinkedIn)  
-- 📄 License section  
-
-Here’s the **complete and polished version** of your `README.md`:
-
----
-
-```markdown
 # 📊 Analysis of Interview Questions on P&C Insurance Claims
 
 This project explores responses to interview questions related to Property & Casualty (P&C) insurance claims, with a focus on uncovering **major process bottlenecks** and **general sentiment** within claims workflows. Using Natural Language Processing (NLP), this project analyzes textual data to generate insights through frequency analysis, visualizations, and sentiment scoring.
