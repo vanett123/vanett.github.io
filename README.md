@@ -72,8 +72,8 @@ This reflects a slightly negative tone, highlighting recurring concerns in the i
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/repo-name.git
-cd repo-name
+git clone https://github.com/vanett123/vanett.github.io.git
+cd vanett.github.io
 ```
 
 2. **Install required packages:**
